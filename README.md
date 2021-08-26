@@ -1,0 +1,1 @@
+This project is for The Odin Project's curriculum. The purpose of this project is to create a book library that accepts new inputs from users.
